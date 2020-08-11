@@ -3,6 +3,7 @@ body {
 }
 
 .main-content {
+    background-color: lightgray;
     margin-top: 20px;
     margin-bottom: 20px;
     border: 5px solid white;
