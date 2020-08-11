@@ -1,6 +1,4 @@
-.jumbotron {
-    background-image: url("../images/Banner.jpg");
-    background-size: cover;
-    min-height: 600px;
-  }
+body {
+    background-color: #1B1B1B;
+}
 
